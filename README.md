@@ -14,7 +14,7 @@ Executing the commands mentioned below one by one in your command line will help
 **Cloning**
 
 ```
-git clone https://github.com/sheikhtausif/indeed-clone.git
+git clone https://github.com/SamSumit007/travelocity/
 cd ./travelocity-clone
 npm install
 ```

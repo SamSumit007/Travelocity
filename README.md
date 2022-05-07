@@ -7,7 +7,6 @@ This is the clone of the Travelocity website. Travelocity is an online travel ag
 **To see the live site click the below link.**
 
 
-https://travelocity-clone.vercel.app
 
 ## Installing and Running
 
